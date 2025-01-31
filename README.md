@@ -33,12 +33,8 @@ The dataset consists of the following sheets:
 4. Modify the dataset to analyze different time periods or trends.
 
 ## Screenshots & Video Demo
-![Sales Data Screenshot](path/to/sales-data-screenshot.png)
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/aaditya620321/Sales-Analysis-Dashboard/blob/main/Screenshots/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the Video Demo](https://github.com/aaditya620321/Sales-Analysis-Dashboard/blob/main/Screenshots/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4)
 
 ## Future Enhancements
 - 🚀 Integration with Power BI for enhanced visualizations.
@@ -46,8 +42,7 @@ The dataset consists of the following sheets:
 - 📊 Additional KPI tracking for business growth analysis.
 
 ## Author
-**Aaditya**  
-For queries, reach out via GitHub Issues.
+**Aaditya**
 
 ---
 Feel free to contribute or suggest improvements! 🚀
