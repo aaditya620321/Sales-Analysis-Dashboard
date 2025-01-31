@@ -35,7 +35,10 @@ The dataset consists of the following sheets:
 ## Screenshots & Video Demo
 ![Sales Data Screenshot](path/to/sales-data-screenshot.png)
 
-🎥 **[Watch the Video Demo](https://github.com/aaditya620321/Sales-Analysis-Dashboard/blob/main/Screenshots/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4)**
+<video width="640" height="360" controls>
+  <source src="https://github.com/aaditya620321/Sales-Analysis-Dashboard/blob/main/Screenshots/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Future Enhancements
 - 🚀 Integration with Power BI for enhanced visualizations.
