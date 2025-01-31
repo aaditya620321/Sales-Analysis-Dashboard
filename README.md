@@ -1,6 +1,6 @@
 # Sales Analysis Dashboard
 
-![Sales Dashboard]("[C:\Users\Aaditya Raj Pandey\OneDrive\Pictures\Screenshots\Screenshot 2025-01-31 155024.png](https://github.com/aaditya620321/Sales-Analysis-Dashboard/blob/main/Screenshots/Dashboard.png)")
+![Sales Dashboard](https://github.com/aaditya620321/Sales-Analysis-Dashboard/blob/main/Screenshots/Dashboard.png)
 
 ## Overview
 This project is an Excel-based **Sales Analysis Dashboard** that helps in tracking and analyzing sales data efficiently. It includes raw sales data, pivot table summaries, and an interactive dashboard for quick insights.
