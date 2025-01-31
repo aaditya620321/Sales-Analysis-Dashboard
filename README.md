@@ -33,9 +33,9 @@ The dataset consists of the following sheets:
 4. Modify the dataset to analyze different time periods or trends.
 
 ## Screenshots & Video Demo
-![Sales Data Screenshot](path/to/sales-data-screenshot.png)
 
-🎥 **[Watch the Video Demo](path/to/video.mp4)**
+
+🎥 **[Watch the Video Demo]((https://github.com/aaditya620321/Sales-Analysis-Dashboard/blob/main/Screenshots/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4))**
 
 ## Future Enhancements
 - 🚀 Integration with Power BI for enhanced visualizations.
